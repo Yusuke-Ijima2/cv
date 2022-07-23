@@ -104,5 +104,5 @@ https://github.com/Yusuke-Ijima2/portfolio-api</br>https://github.com/Yusuke-Iji
 
 【使用技術】
 
-next.js　| tailwindcss | Ruby on Rails | MySQL | docker | Vercel | Heroku
+Next.js | tailwindcss | Ruby on Rails | MySQL | docker | Vercel | Heroku
 
