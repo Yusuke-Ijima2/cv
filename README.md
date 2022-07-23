@@ -95,7 +95,12 @@ Raspberry Pi | Armadillo | Podman | Git | python
 ## 健康管理アプリ (未完成)
 
 【URL】
+
 http://health-portfolio-app.tk
+
+【Git Repository】
+
+https://github.com/Yusuke-Ijima2/portfolio-api</br>https://github.com/Yusuke-Ijima2/portfolio-front
 
 【使用技術】
 
