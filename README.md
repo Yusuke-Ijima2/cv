@@ -8,7 +8,7 @@
 |      年齢      | 21 歳                                                                                    |
 |      住所      | 東京都                                                                                   |
 |      出身      | 山梨県                                                                                   |
-|      大学      | 東京工科大学工学部電気電子工学科                                                      |
+|      大学      | 東京工科大学                                                     |
 |     Email      | yusuke1120925@gmail.com                                                                    |
 |      趣味      | 食べ歩き、漫画、温泉                                                      |
 |  　　ポートフォリオ 　　| https://github.com/Yusuke-Ijima2/portfolio-api</br>https://github.com/Yusuke-Ijima2/portfolio-front |
