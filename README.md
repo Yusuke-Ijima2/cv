@@ -18,7 +18,7 @@
 
 #### Language
 
-　Javascript | Typescript | Ruby | Go
+　Javascript | TypeScript | Ruby | Go
 
 #### Framework
 
