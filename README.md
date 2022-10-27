@@ -10,15 +10,15 @@
 |      出身      | 山梨県                                                                                   |
 |      大学      | 東京工科大学                                                     |
 |     Email      | yusuke1120925@gmail.com                                                                    |
-|      趣味      | 食べ歩き、漫画、温泉                                                      |
-|  　　ポートフォリオ 　　| https://github.com/Yusuke-Ijima2/portfolio-api</br>https://github.com/Yusuke-Ijima2/portfolio-front |
+|      趣味      | 食べ歩き、漫画、温泉、サウナ                                                      |
+|  　　ポートフォリオ 　　| https://github.com/Yusuke-Ijima2/portfolio-api</br>https://github.com/Yusuke-Ijima2/portfolio-front<br>https://github.com/Yusuke-Ijima2/python-research |
 |     Qiita      | https://qiita.com/yusuke1120925                                                               |
 
 ## スキル
 
 #### Language
 
-　Javascript | TypeScript | Ruby | Go
+　Javascript | TypeScript | Ruby | Go | python
 
 #### Framework
 
@@ -36,13 +36,13 @@
 
 ### 【アルバイト】
 
-### パイタンラーメン焔　短期バイト　(2020 年 3 月〜 2020 年 6 月 の4ヶ月間)
+### パイタンラーメン焔　短期バイト　(2020 年 3 月 〜 2020 年 6 月 の4ヶ月間)
 
 【担当業務】
 
 - ホール、キッチン
 
-### 竜泉寺の湯　(2020 年 10 月〜 202 年 11 月 の約1年間)
+### 竜泉寺の湯　(2020 年 10 月〜 2021 年 11 月、2022 年 8月 ~ 現在)
 
 【担当業務】
 
