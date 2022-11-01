@@ -50,7 +50,7 @@
 
 ### 【インターンシップ】
 
-#### 株式会社ワールドリード　エンジニア長期インターン<br>「学生向け就活 SNS サイト」【React.js | Go | Firebase | GCP | Docker | Github Actions】(2021 年 12 月〜 2022 年 3 月 の4ヶ月間)
+#### 株式会社ワールドリード　エンジニア長期インターン<br>「学生向け就活 SNS サイト」【React.js | Go | Firebase | GCP | Docker | Github Actions】(2021 年 12 月〜 2022 年 5 月 の約6ヶ月間)
 
 【概要】
 
