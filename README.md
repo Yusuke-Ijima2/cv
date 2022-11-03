@@ -92,7 +92,7 @@ Raspberry Pi | Armadillo | Podman | Git | python
 
 # ポートフォリオ
 
-## 健康管理アプリ (作成中)
+## シフト表を自動で作ってくれるアプリ (作成中)
 
 【URL】
 
