@@ -67,7 +67,7 @@
 
 【使用技術】
 
-React.js | Go | Docker | GitHub
+React.js | Go | MySQL | Docker | GitHub
 
 【実績】
 
